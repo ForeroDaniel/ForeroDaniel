@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center">full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">full-stack developer 👨‍💻 🚀</div>  
     
   
 
 - 🌱 I’m currently learning Pandas and Dash  
 
 
-- 😃 Send me a song! 
+- 😃  
   
   
 
