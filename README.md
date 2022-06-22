@@ -1,16 +1,14 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/99362093/175036192-6773a745-9646-48fc-afc6-789afc8f97c3.png" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Daniel, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
     
   
 
-- 🌱 I’m currently learning Pansdas and Dash  
+- 🌱 I’m currently learning Pandas and Dash  
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
  
@@ -90,9 +88,6 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **ForeroDaniel/ForeroDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
