@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">full-stack developer </div>  
     
   
 
