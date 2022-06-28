@@ -7,10 +7,10 @@
     
   
 
-- 🌱 I’m currently learning Pandas and Dash  
+- 🌱 on machine language I’m currently learning Pandas and Dash  
 
 
-- 😃  
+- 😃  on human language I’m currently learning Japanese
   
   
 
